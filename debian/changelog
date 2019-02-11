@@ -1,3 +1,10 @@
+xenta-mdm-themes-html (2019.12.24) batik; urgency=medium
+
+  * Pembaharuan berkas debian 
+  * Pembaharuan Html Theme Xenta
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 18:21:46 +0700
+
 xenta-mdm-themes-html (2017.12.24) arok; urgency=medium
 
   * Pengaturan Dependent Paket dan Konflik Paket

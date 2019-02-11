@@ -1,11 +1,11 @@
 Source: xenta-mdm-themes-html
 Section: x11
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xenta-mdm-themes-html
-Vcs-Browser: https://github.com/xentaos/xenta-mdm-themes-html.git
+Homepage: https://github.com/xentaoslinux/xenta-mdm-themes-html
+Vcs-Browser: https://github.com/xentaoslinux/xenta-mdm-themes-html.git
 
 Package: xenta-mdm-themes-html
 Architecture: all
